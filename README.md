@@ -1,0 +1,2 @@
+# ruta-optima-policy-evaluation
+En este desafío evaluarás la política de un agente en un laberinto utilizando el algoritmo Policy Evaluation. El objetivo de la evaluación es obtener los valores asociados a cada estado suponiendo que el agente seguirá la política a evaluar en todo momento.  El movimiento del agente tendrá una fuerte componente estocástica pero las funciones de transición y de recompensa serán conocidas.
